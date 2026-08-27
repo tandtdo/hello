@@ -1,9 +1,11 @@
-/**
+/*
  * Basic Hello World program
+ * Name: Tan Do
+ * Date: 2026/08/26
  */
+
 #include <stdlib.h>
 #include <stdio.h>
-
 
  int main(int argc, char **argv) {
 
