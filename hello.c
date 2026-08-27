@@ -1,5 +1,5 @@
 /*
- * Basic Hello World program
+ * Hack 1.0: Name + Major program
  * Name: Tan Do
  * Date: 2026/08/27
  */
