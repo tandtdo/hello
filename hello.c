@@ -7,11 +7,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 
- int main(int argc, char **argv) {
+int main(int argc, char **argv) {
 
-    printf("Hello, I'm Tan Do!\n");
-    printf("My major is Computer Engineering and Robotics Engineering!\n");
-    printf("My minor is Math\n");
+   printf("Hello, I'm Tan Do!\n");
+   printf("My major is Computer Engineering and Robotics Engineering!\n");
+   printf("My minor is Math\n");
 
-    return 0;
- }
+   return 0;
+}
